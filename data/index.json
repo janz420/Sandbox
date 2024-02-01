@@ -1,11 +1,9 @@
 {
-"userId":"rirani",
-"jobTitleName":"Developer",
-"firstName":"Romin",
-"lastName":"Irani",
-"preferredFullName":"Romin Irani",
-"employeeCode":"E1",
-"region":"CA",
-"phoneNumber":"408-1234567",
-"emailAddress":"romin.k.irani@gmail.com"
+"attackRange":"0x011C2480",
+"walkBp":"0x004DD21A",
+"cameraRange":"0x02B0147C",
+"wallHack":"0x00EBA3F0",
+"potsAddr1":"0x02B04253",
+"potsAddr2":"0x02B04254",
+"potsAddr3":"0x02B04255"
 }
