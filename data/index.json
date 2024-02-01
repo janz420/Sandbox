@@ -1,13 +1,13 @@
 {
 "Result":[
             {
-            "attackRange":"0x011C2480",
-            "walkBp":"0x004DD21A",
+            "attackRange":"011C2480",
+            "walkBp":"004DD21A",
             "cameraRange":"02B0147C",
-            "wallHack":"0x00EBA3F0",
-            "potsAddr1":"0x02B04253",
-            "potsAddr2":"0x02B04254",
-            "potsAddr3":"0x02B04255"
+            "wallHack":"00EBA3F0",
+            "potsAddr1":"02B04253",
+            "potsAddr2":"02B04254",
+            "potsAddr3":"02B04255"
             }
         ]
 }
