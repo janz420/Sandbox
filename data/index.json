@@ -3,7 +3,7 @@
             {
             "attackRange":"0x011C2480",
             "walkBp":"0x004DD21A",
-            "cameraRange":"0x02B0147C",
+            "cameraRange":"02B0147C",
             "wallHack":"0x00EBA3F0",
             "potsAddr1":"0x02B04253",
             "potsAddr2":"0x02B04254",
