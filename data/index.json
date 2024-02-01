@@ -1,4 +1,6 @@
 {
+    "Result":[
+{
 "attackRange":"0x011C2480",
 "walkBp":"0x004DD21A",
 "cameraRange":"0x02B0147C",
@@ -6,4 +8,6 @@
 "potsAddr1":"0x02B04253",
 "potsAddr2":"0x02B04254",
 "potsAddr3":"0x02B04255"
+}
+]
 }
