@@ -5,9 +5,9 @@
             "walkBp":"004DD21A",
             "cameraRange":"02B0147C",
             "wallHack":"00EBA3F0",
-            "potsAddr1":"02B04253",
-            "potsAddr2":"02B04254",
-            "potsAddr3":"02B04255"
+            "potsAddr1":"02B0425C",
+            "potsAddr2":"02B0425D",
+            "potsAddr3":"02B0425E"
             }
         ]
 }
