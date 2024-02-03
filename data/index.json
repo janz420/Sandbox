@@ -12,13 +12,19 @@
         ],
 "Babyran":[
             {
+            "LongRange":"008ae1e4",
             "Addr1":"00626D82",
             "Addr2":"00626D83",
             "Addr3":"00626D84",
             "Addr4":"00626D85",
             "Addr5":"00626D86",
             "Addr6":"00626D87",
-            "Addr7":"00626D88"
+            "Addr7":"00626D88",
+            "Board":"02911cd4",
+            "Wall":"00805e98",
+            "AutoPK":"02913c55",
+            "AttackSpeed":"02911b1c",
+            "Zoom":"00ab2bf0"
             }
         ]
 }
