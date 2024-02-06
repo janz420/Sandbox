@@ -39,7 +39,10 @@
             "Wall":"00920750",
             "AutoPK":"00d26f8d",
             "PKSchool":"00d26f8c",
-            "Zoom":"02EE5CB0"
+            "Zoom":"02EE5CB0",
+            "POTS1":"02EE563C",
+            "POTS2":"02EE563D",
+            "POTS3":"02EE563E"
             }
         ]
 }
