@@ -27,5 +27,19 @@
             "AttackSpeed":"02911b1c",
             "Zoom":"00ab2bf0"
             }
+        ],
+"Carniageran":[
+            {
+            "Addr1":"004C76C4",
+            "Addr2":"004C76C5",
+            "Addr3":"004C76C6",
+            "Addr4":"004C76C7",
+            "Addr5":"004C76C8",
+            "Addr6":"004C76C9",
+            "Wall":"00920750",
+            "AutoPK":"00d26f8d",
+            "PKSchool":"00d26f8c",
+            "Zoom":"02EE5CB0"
+            }
         ]
 }
